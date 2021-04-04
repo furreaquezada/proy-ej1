@@ -1,27 +1,5 @@
 paso 13 modificar el codigo.txt en la primera-rama
-
-
-
-
-
-
-
-
-
-
-
 se realiza merge desde la rama master  seleccionando la primera-rama
-
-
-
-
-
-
-
-
 se realiza edicion en  paso 21 en la rama llamada segunda-rama
-
-
-
-
 se ha realizado el push de la segunda rama se procede a hacer el push
+
