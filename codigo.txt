@@ -1,2 +1,13 @@
 paso 13 modificar el codigo.txt en la primera-rama
 
+
+
+
+
+
+
+
+
+
+
+se realiza merge desde la rama master  seleccionando la primera-rama
